@@ -1,5 +1,6 @@
 # 📈 FinVise AI: Indian Stock Market Analysis Module
 
+**APP:** https://indfinvise.streamlit.app/  
 **Author:** Pranay  
 **Role:** Full Stack AI/ML Engineer 
 
@@ -26,9 +27,3 @@ This repository contains a Full Stack AI/ML dashboard designed to analyze and pr
 * **Generative AI:** LangChain, Google Gemini API
 * **Visualization:** Plotly
 
-## 💻 Local Setup & Installation
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-   cd YOUR_REPO_NAME
