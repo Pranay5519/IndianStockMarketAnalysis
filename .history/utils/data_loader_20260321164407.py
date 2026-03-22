@@ -1,1 +1,0 @@
-lets build this proejct am aminig for FULL stack AIML role lets build the proejct accordinyl before that give  the pipeline and what type of analysis ar we going to do
