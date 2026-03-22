@@ -24,7 +24,6 @@ st.divider()
 
 # Secure API Key Handling for Reviewers
 st.subheader("API Configuration")
-st.info("To evaluate this module without local setup, please provide your Google API key below. Keys are not stored and are cleared upon exit.")
 
 # 2. Try to get Google Key from secrets, fallback to UI input if not found
 google_key = st.secrets.get("GOOGLE_API_KEY", "")
