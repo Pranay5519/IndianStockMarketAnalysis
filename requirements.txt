@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+yfinance
+plotly
+scikit-learn
+xgboost
+prophet
+ta
+scipy
+newsapi-python
+python-dotenv
