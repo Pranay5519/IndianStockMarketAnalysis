@@ -20,3 +20,6 @@ venv
 .env
 .streamlit/secrets.toml
 
+.streamlit/
+
+.history
